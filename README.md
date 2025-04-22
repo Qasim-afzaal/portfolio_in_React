@@ -23,15 +23,11 @@ A modern portfolio website built with React and Tailwind CSS, showcasing my proj
 - **Build Tool:** Vite (or Create-React-App)
 - **Package Manager:** npm
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-portfolio-link.com) <!-- Add your actual deployment link -->
-
 ## 📦 Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/portfolio_in_React.git
+git clone https://github.com/Qasim-afzaal/portfolio_in_React.git
 ```
 
 2. Install dependencies
